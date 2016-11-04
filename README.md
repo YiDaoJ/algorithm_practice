@@ -1,4 +1,4 @@
 # codewars_solutions
-Collections of Solutions to Codewars katas
+Collections of my solutions to [Codewars](https://www.codewars.com) katas
 
-Written by: yidaoj
+
