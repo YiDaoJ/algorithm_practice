@@ -6,7 +6,7 @@
 * Don't forget the space after the closing parenthese!
 */
 
-public class Kata {
+public class CreatePhoneNumber {
   public static String createPhoneNumber(int[] numbers) {
     String numberToString = "";
     for(int i=0; i<numbers.length;i++){
